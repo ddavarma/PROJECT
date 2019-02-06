@@ -1,0 +1,42 @@
+body{
+	background-image: url("https://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/12/26/Photos/Processed/tcs-kGkC--621x414@LiveMint.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#blo{
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+	margin-top: 10px;
+	margin-right:	20px;
+	margin-bottom: 10px;
+	float: left;
+	max-width: 20%;
+}
+#block{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#blo1{
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+	margin-top: 10px;
+	margin-right:	20px;
+	margin-bottom: 10px;
+	float: right;
+	max-width: 20%;
+}
+#Head{
+	float: right; 
+}
+#Head1{
+	float: left; 
+}
+p{
+	color: red;
+}

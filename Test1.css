@@ -1,0 +1,11 @@
+body{
+	background-image: url("http://hdqwalls.com/wallpapers/mkbhd-logo-4k-08.jpg");
+	 background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+}
+h1{
+	font-size: 50px;
+	font: bolder;
+	text-align: center;
+	color: red;
+}
