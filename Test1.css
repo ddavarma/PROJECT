@@ -1,11 +1,62 @@
-body{
-	background-image: url("http://hdqwalls.com/wallpapers/mkbhd-logo-4k-08.jpg");
+/*body{
+	background-image: url("https://cdn.hipwallpaper.com/i/6/64/ltOrxK.jpg");
 	 background-position: right bottom, left top;
-    background-repeat: no-repeat, repeat;
-}
+background-repeat: no-repeat, repeat;
+}*/
 h1{
 	font-size: 50px;
 	font: bolder;
 	text-align: center;
 	color: red;
+}
+	.dropbtn {
+    background-color: red;
+ 	color: black;
+    padding: 16px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown {
+
+    display: inline-block;  
+  position: relative;
+ }   
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: red;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: yellow;
+}
+.tab{
+		margin-left: 3em;
+  }
+   .txt{
+    color: white;
+  }
+  body{
+    background-image: url("https://samily.co.za/wp/wp-content/uploads/2018/02/cropped-background_bottom.gif");
+    background-repeat: no-repeat;
+	  background-color:#F4EAEA;
+  }
+.card{
+	display: inline-block;
 }

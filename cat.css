@@ -1,0 +1,11 @@
+.card{
+      width: 100px;
+      height: 100px;
+    }
+  /*body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Apple_Store_LA.jpg/1200px-Apple_Store_LA.jpg");
+    color: white;
+  }*/
+			table ul li{
+				display: inline-block;
+			}
